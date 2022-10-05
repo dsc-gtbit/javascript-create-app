@@ -1,0 +1,17 @@
+canvas{
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  color: black;
+  z-index: -10;
+}
+
+*{
+text-align: center;
+align-items: center;
+}
+
+h1{
+  color: #fff;
+  margin: 40%;
+}
